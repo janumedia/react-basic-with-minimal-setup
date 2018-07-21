@@ -4,5 +4,6 @@ This repo provide an example to start writing React single page website without 
 
 # Depedencies
 
-This basic setup is using `webpack-dev-server` as dev sever during development process
-To ensure that we can use ES6 we using `babel-preset-es2015` and `babel-preset-react` to process JSX as React features along ES6
+This basic setup is using `webpack-dev-server` as dev sever during development process.
+
+To ensure that we can use ES6 we using `babel-preset-es2015` and `babel-preset-react` to process JSX as React features along ES6.
