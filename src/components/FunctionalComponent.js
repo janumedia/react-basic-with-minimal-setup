@@ -6,6 +6,7 @@ const FunctionalComponent = ({name, rule, hobbies}) => {
     return (
         <div>
             <p>My name is {name}, a {rule}</p>
+            <p>I loves:</p>
             <ul>{listHobby}</ul>
         </div>
     );
